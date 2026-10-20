@@ -1,6 +1,6 @@
 # Augustus for New 3DS
 
-A port of Augustus (the enhanced Julius fork — a Caesar III engine
+A port of Augustus (the enhanced Julius fork - a Caesar III engine
 reimplementation) to the New Nintendo 3DS.
 
 ## Install
@@ -17,3 +17,5 @@ reimplementation) to the New Nintendo 3DS.
   804 MHz CPU and L2 cache.
 - The UI renders at 640x480 logical and is downscaled to the 400x240
   top screen.
+- The bottom screen shows a live city minimap plus a mirror of the
+  sidebar; tap the mirrored sidebar icons on the bottom screen to use them.
